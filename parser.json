@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "semver": false,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-gitattributes",
-  "lang": "gitattributes",
-  "min_version": null,
-  "max_version": null
+  "semver": false,
+  "parser_version": "1b7af09d45b579f9f288453b95ad555f1f431645",
+  "location": null,
+  "lang": "gitattributes"
 }
